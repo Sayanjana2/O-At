@@ -1,0 +1,6 @@
+{
+  "name": "Deskify",
+  "description": "Turn your phone into a powerful desktop environment on external displays or PC via USB, Wi-Fi, and HDMI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
